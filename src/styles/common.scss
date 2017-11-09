@@ -1,0 +1,36 @@
+body, ul, p, dl, ul, ol, dd, h1, h2, h3, h4, h5, h6, td, input, fieldset, textarea, option, legend {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font: 12px "微软雅黑";
+  color: #666666;
+}
+
+body, html {
+  width: 100%;
+  height: 100%;
+}
+
+a {
+  text-decoration: none;
+  color: #666666;
+}
+
+li {
+  list-style: none;
+}
+
+h1, h2, h3, h4, h5, h6, b, strong {
+  font-weight: 100;
+}
+
+a, input, select {
+  outline: none;
+}
+
+img {
+  border: 0;
+  vertical-align: top;
+}
